@@ -1,4 +1,5 @@
 rm(list=ls())
+
 # Examen Final - Adrian Ramos Perez
 
 # Lectura de la Serie:
